@@ -1,4 +1,5 @@
 print("Hallo Wereld !")
 print("Welkom in onze ijssalon")
 print("Under construction")
-
+print("de eerste keer")
+print("de tweede keer")
